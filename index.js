@@ -6,5 +6,5 @@ import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(<App />, document.getElementById('root'));
 
-// Hi this is react.
+// Never minds
 serviceWorker.unregister();
